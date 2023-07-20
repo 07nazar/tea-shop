@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #282828;
+  --color-on-primary: #ffffff;
+  --color-secondary: #c3b212;
+  --color-on-secondary: #000000;
+  --bg-primary: #fefefe;
+  --bg-secondary: #f4f4f4;
+  --outline: #a0a0a0;
+  --test: red;
+  --font-primary: 'Montserrat', sans-serif;
+  --font-secondary: 'Prosto One', cursive;
+}
