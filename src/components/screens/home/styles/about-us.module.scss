@@ -1,0 +1,32 @@
+.about_us_wrapper {
+  background: var(--bg-secondary);
+}
+.about_us {
+  width: 100%;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+  gap: 40px;
+  margin-bottom: 54px;
+  padding: 30px 76px;
+}
+.items {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+}
+.item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 10px;
+}
+.button {
+  margin: 0 auto;
+  padding: 18px 91px;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
